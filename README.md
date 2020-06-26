@@ -1,6 +1,6 @@
 # countdown
 Cross-platform geek console countdown
-Usage: pytimer.py (hours)h(minutesmS(seconds)s
+Usage: pytimer.py (hours)h(minutes)m(seconds)s
 
 Examples:
 pytimer.py 1h30m15s
